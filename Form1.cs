@@ -1,6 +1,3 @@
-﻿// Author: Joshua Pohl
-// Contact: joshuapohl@gmail.com
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
